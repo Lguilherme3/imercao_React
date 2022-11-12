@@ -1,23 +1,23 @@
 {
-    "name": "Mario Souto (DevSoutinho)",
-    "job": "Lead Software Engineer",
-    "github": "omariosouto",
+    "name": "Luiz Guilherme",
+    "job": "Developer",
+    "github": "Lguilherme3",
     "playlist": {
-        "jogos": [
+        "Front-End": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "Módulo 1 Curso em vídeo",
+                "url": "https://youtu.be/Ejkb_YpuHWs?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+                "thumb": "https://img.youtube.com/vi/Ejkb_YpuHWs/hqdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "Módulo 2 Curso em vídeo",
+                "url": "https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n",
+                "thumb": "https://img.youtube.com/vi/vPNIAJ9B4hg/hqdefault.jpg"
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
-                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "title": "Módulo 3 Curso em vídeo",
+                "url": "https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ",
+                "thumb": "https://img.youtube.com/vi/ofFgnDtn_1c/hqdefault.jpg"
             },
             {
                 "title": "Gartic Phone - Não assista a esse NerdPlayer!",
